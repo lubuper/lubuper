@@ -26,6 +26,6 @@ BIG ICONS
 ## P_skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,bash,linux,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,python,mysql,git,github,bash,linux,vim,vscode" />
   </a>
 </p>
