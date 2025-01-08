@@ -1,7 +1,7 @@
 ## About me
 
 - Hey!! I'm Luis 👋 lde-sous at [**42 Porto**](https://www.42porto.com).
-- I’m currently working 💼 part-time at [**IKEA**](https://www.ikea.pt) and studying 👨🏻‍💻 at the Common Core at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine.
+- I’m currently working 💼 part-time at [**IKEA**](https://www.ikea.pt) and studying 👨🏻‍💻 at the 42 Advanced at [**42 Porto**](https://www.42porto.com) after successfully completing the Piscine and the Common Core.
 - I have interest in many different things, such as pursuing a career in 👾 Cybersecurity, getting into 🌿 Permaculture, and learning about Investment 🏛️ and Finance!
 - I love to practice ⚔️ Kendo, play 🕹️ Videogames, go for a hike 🏞 and do some climbing!
 - I'm aiming to be a little bit of a 🛠️ "jack-of-all-trades", having many experiences that allow me to adapt more easily and to 🌱 live life to the fullest 🌲!
